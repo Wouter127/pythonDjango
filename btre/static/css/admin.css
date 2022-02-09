@@ -1,0 +1,22 @@
+#header {
+    background-color: #10284e;
+    height: 50px;
+    color: #fff;
+}
+
+#branding h1 {
+    columns: #fff;
+}
+
+div.breadcrumbs {
+    background-color: #30caa0;
+    color: #10284e;
+}
+
+div.breadcrumbs a {
+    color: #333;
+}
+
+.module h2, .module caption, .inline-group h2 {
+    background-color: #30caa0;
+}
